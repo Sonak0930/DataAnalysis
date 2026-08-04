@@ -1,0 +1,101 @@
+Rank,Name,Net_Worth_USD_Billion,Age,Country,Industry,Source_of_Wealth,City,Marital_Status,Children
+1,Elon Musk,841.1,54,USA,Technology,"Tesla, SpaceX, xAI",Austin,Single,12
+2,Larry Page,272.4,52,USA,Technology,Google,Palo Alto,Married,2
+3,Sergey Brin,251.3,52,USA,Technology,Google,Los Altos,Divorced,3
+4,Jeff Bezos,244.3,62,USA,Technology,Amazon,Miami,Engaged,4
+5,Mark Zuckerberg,229.3,41,USA,Technology,Meta,Palo Alto,Married,3
+6,Larry Ellison,193,81,USA,Technology,Oracle,Lanai,Divorced,2
+7,Bernard Arnault,165.1,76,France,Fashion & Retail,LVMH,Paris,Married,5
+8,Jensen Huang,154,63,USA,Technology,NVIDIA,Los Altos,Married,2
+9,Warren Buffett,149.3,95,USA,Finance,Berkshire Hathaway,Omaha,Widowed,3
+10,Rob Walton,146,81,USA,Fashion & Retail,Walmart,Bentonville,Married,3
+11,Jim Walton,143.3,77,USA,Fashion & Retail,Walmart,Bentonville,Married,4
+12,Amancio Ortega,142.2,89,Spain,Fashion & Retail,Zara,La Coruna,Married,3
+13,Michael Dell,140.6,61,USA,Technology,Dell Technologies,Austin,Married,4
+14,Alice Walton,134.1,76,USA,Fashion & Retail,Walmart,Fort Worth,Divorced,0
+15,Carlos Slim Helu,124.9,86,Mexico,Telecom,America Movil,Mexico City,Widowed,6
+16,Steve Ballmer,124.3,69,USA,Technology,Microsoft,Hunts Point,Married,3
+17,Michael Bloomberg,109.4,84,USA,Finance,Bloomberg LP,New York,Partnered,2
+18,Bill Gates,108.1,70,USA,Technology,Microsoft,Medina,Divorced,3
+19,Mukesh Ambani,97.2,68,India,Diversified,Reliance Industries,Mumbai,Married,3
+20,Francoise Bettencourt Meyers,94.3,72,France,Fashion & Retail,L'Oreal,Paris,Married,2
+21,Thomas Peterffy,82.8,81,USA,Finance,Interactive Brokers,Palm Beach,Divorced,3
+22,Julia Koch,81.1,63,USA,Diversified,Koch Industries,New York,Widowed,3
+23,Charles Koch,73.7,90,USA,Diversified,Koch Industries,Wichita,Married,2
+24,Zhang Yiming,69.3,42,China,Technology,ByteDance,Beijing,Married,0
+25,Jeff Yass,67.4,67,USA,Finance,Susquehanna,Haverford,Married,4
+26,Dieter Schwarz,67.1,86,Germany,Fashion & Retail,Schwarz Gruppe,Heilbronn,Married,2
+27,German Larrea Mota Velasco,67,72,Mexico,Metals & Mining,Grupo Mexico,Mexico City,Married,2
+28,Zhong Shanshan,66.2,71,China,Food & Beverage,Nongfu Spring,Hangzhou,Married,3
+29,Changpeng Zhao,63.6,49,Canada,Finance,Binance,Dubai,Single,2
+30,Gautam Adani,61.9,63,India,Diversified,Adani Group,Ahmedabad,Married,2
+31,Tadashi Yanai,60.7,77,Japan,Fashion & Retail,Uniqlo,Tokyo,Married,2
+32,Ma Huateng,53.4,54,China,Technology,Tencent,Shenzhen,Married,2
+33,Robin Zeng,52.9,57,Hong Kong,Automotive,CATL,Ningde,Married,0
+34,Iris Fontbona,51.8,83,Chile,Metals & Mining,Antofagasta,Santiago,Widowed,3
+35,Masayoshi Son,51,68,Japan,Technology,SoftBank,Tokyo,Married,2
+36,Ken Griffin,49.8,57,USA,Finance,Citadel,Miami,Divorced,3
+37,John Mars,49.1,90,USA,Food & Beverage,Mars Inc.,Jackson,Married,2
+38,Jacqueline Mars,49.1,86,USA,Food & Beverage,Mars Inc.,The Plains,Divorced,3
+39,Lukas Walton,48.9,39,USA,Fashion & Retail,Walmart,Chicago,Married,0
+40,Giovanni Ferrero,48.7,61,Italy,Food & Beverage,Ferrero,Brussels,Married,2
+41,Li Ka-shing,46.5,97,Hong Kong,Diversified,CK Hutchison,Hong Kong,Widowed,2
+42,Mark Mateschitz,45.7,33,Austria,Food & Beverage,Red Bull,Salzburg,Single,0
+43,Rafaela Aponte-Diamant,45.5,81,Switzerland,Logistics,MSC,Geneva,Married,2
+44,Gianluigi Aponte,45.5,85,Switzerland,Logistics,MSC,Geneva,Married,2
+45,Andrea Pignataro,42.9,55,Italy,Finance,ION Group,London,Married,0
+46,Klaus-Michael Kuehne,42.3,88,Germany,Logistics,Kuehne+Nagel,Schindellegi,Married,0
+47,Thomas Frist Jr,41.1,87,USA,Healthcare,HCA Healthcare,Nashville,Married,3
+48,Alain Wertheimer,39.4,77,France,Fashion & Retail,Chanel,New York,Married,3
+49,Gerard Wertheimer,39.4,75,France,Fashion & Retail,Chanel,Geneva,Married,2
+50,Savitri Jindal,38.9,75,India,Metals & Mining,Jindal Group,Hisar,Widowed,9
+51,MacKenzie Scott,40.5,55,USA,Technology,Amazon,Seattle,Divorced,4
+52,Colin Huang,40.2,46,China,Technology,Pinduoduo,Shanghai,Single,0
+53,Rodolphe Saade,38.5,56,France,Logistics,CMA CGM,Marseille,Married,3
+54,He Xiangjian,38.3,83,China,Manufacturing,Midea Group,Foshan,Married,3
+55,Shiv Nadar,37.7,80,India,Technology,HCL Technologies,Delhi,Married,1
+56,Len Blavatnik,37.8,68,USA,Diversified,Warner Music,London,Married,4
+57,Gina Rinehart,37.6,72,Australia,Metals & Mining,Hancock Prospecting,Perth,Divorced,4
+58,Dan Gilbert,36.2,64,USA,Finance,Rocket Companies,Detroit,Married,5
+59,Eduardo Saverin,35.8,43,Brazil,Technology,Meta,Singapore,Married,1
+60,Shapoor Mistry,35.3,61,India,Construction,Shapoorji Pallonji,Mumbai,Married,3
+61,Robert Pera,34.3,47,USA,Technology,Ubiquiti,Miami,Single,0
+62,Lei Jun,33.1,56,China,Technology,Xiaomi,Beijing,Married,2
+63,Susanne Klatten,32.8,63,Germany,Automotive,BMW,Munich,Divorced,3
+64,Henry Samueli,32.5,71,USA,Technology,Broadcom,Newport Beach,Married,3
+65,Lakshmi Mittal,31.3,75,India,Metals & Mining,ArcelorMittal,London,Married,2
+66,Eyal Ofer,30.8,75,Monaco,Diversified,Zodiac Maritime,Monte Carlo,Married,4
+67,Idan Ofer,30.7,70,Israel,Diversified,Quantum Pacific,London,Married,5
+68,Andy Bechtolsheim,30.3,70,Germany,Technology,Arista Networks,Silicon Valley,Single,0
+69,Aliko Dangote,29.9,68,Nigeria,Diversified,Dangote Group,Lagos,Divorced,3
+70,Phil Knight,29.7,88,USA,Fashion & Retail,Nike,Hillsboro,Married,3
+71,David Sun,29.5,74,USA,Technology,Kingston Technology,Irvine,Married,2
+72,John Tu,29.5,84,USA,Technology,Kingston Technology,Rolling Hills,Married,2
+73,Miriam Adelson,29.1,80,USA,Gambling,Las Vegas Sands,Las Vegas,Widowed,2
+74,Prajogo Pangestu,28.8,81,Indonesia,Diversified,Barito Pacific,Jakarta,Married,3
+75,Jack Ma,28.4,61,China,Technology,Alibaba,Hangzhou,Married,3
+76,William Ding,28.1,54,China,Technology,NetEase,Hangzhou,Married,2
+77,Stefan Quandt,27.5,59,Germany,Automotive,BMW,Frankfurt,Married,2
+78,Reinhold Wuerth,27.2,90,Germany,Manufacturing,Wuerth Group,Kuenzelsau,Married,3
+79,Takemitsu Takizaki,26.8,80,Japan,Manufacturing,Keyence,Osaka,Married,1
+80,Lee Shau Kee,26.5,98,Hong Kong,Real Estate,Henderson Land,Hong Kong,Married,5
+81,Thomas Peterffy,26.2,81,USA,Finance,Interactive Brokers,Palm Beach,Divorced,3
+82,Donald Bren,26,93,USA,Real Estate,Irvine Company,Newport Beach,Married,3
+83,Hermann Plattner,25.7,82,Germany,Technology,SAP,Schriesheim,Married,2
+84,Vicky Safra,25.5,73,Brazil,Finance,Safra Group,Crans-Montana,Widowed,4
+85,Emmanuel Besnier,25.2,55,France,Food & Beverage,Lactalis,Laval,Married,3
+86,Cyrus Poonawalla,24.8,84,India,Healthcare,Serum Institute,Pune,Widowed,1
+87,Eric Schmidt,24.5,70,USA,Technology,Google,Atherton,Married,2
+88,James Ratcliffe,24.2,73,UK,Manufacturing,INEOS,Monaco,Divorced,3
+89,Uday Kotak,23.8,66,India,Finance,Kotak Mahindra Bank,Mumbai,Married,2
+90,Ken Griffin,23.5,57,USA,Finance,Citadel,Miami,Divorced,3
+91,Lukas Walton,23.2,39,USA,Fashion & Retail,Walmart,Chicago,Married,0
+92,Abigail Johnson,22.9,64,USA,Finance,Fidelity,Milton,Married,2
+93,Stephen Schwarzman,22.5,79,USA,Finance,Blackstone,New York,Married,3
+94,Diane Hendricks,22.1,79,USA,Construction,ABC Supply,Afton,Widowed,7
+95,Dilip Shanghvi,21.8,70,India,Healthcare,Sun Pharma,Mumbai,Married,2
+96,Renata Kellnerova,21.5,58,Czechia,Diversified,PPF Group,Prague,Widowed,4
+97,David Tepper,21.2,68,USA,Finance,Appaloosa Management,Palm Beach,Married,3
+98,Dustin Moskovitz,20.8,41,USA,Technology,Asana,San Francisco,Married,0
+99,Jan Koum,20.5,50,USA,Technology,WhatsApp,Atherton,Single,0
+100,Zhang Bo,20.2,55,China,Manufacturing,Weiqiao Pioneering,Binzhou,Married,2
