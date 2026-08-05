@@ -59,4 +59,15 @@ Classification은 데이터 무리에 각각 label이 존재해서, 사자인지
 반면에 Clustering은 사전에 주어진 정보가 없이, 군집 대상의 공통된 특징을 바탕으로 대상들이 같은 종/속에 속한다는 것을 추론합니다.
 <img width="658" height="254" alt="image" src="https://github.com/user-attachments/assets/a49aa8c3-d891-4e23-8573-2bbfc0cbaff6" />
 
+# 머신러닝을 이용한 예측 - 회귀분석
+이번 포스트에서는 회귀분석에 기반한 예측을 주로 다룹니다.
+회귀분석은 입력 피쳐 X:{x1...xn}과 목표 변수 y가 주어집니다. 
+그리고 이를 Linear expression으로 표현할 수 있습니다.
+
+<img width="731" height="103" alt="image" src="https://github.com/user-attachments/assets/95fce90b-aaf5-4f3f-b9d5-f7c780448778" />
+
+우리가 찾아야 하는 것은 B입니다. 
+B는 f(x,y)를 구성하는 coefficients로 실제 독립변수 X가 종속변수 y에 영향을 미치는 정도를 나타냅니다.
+예를 들어 y='감기에 걸림' X={x1:'에어컨 가동 후 취침',x2:'차가운 것 많이 먹기',x3:'늦게 자기'}라고 한다면,
+b1,b2,b3는 각각의 x가 감기의 원인이 되는 비중(contribution)을 결정합니다.
 
